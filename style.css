@@ -1,0 +1,9 @@
+.block{
+	border: 1px solid #999;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	padding-left: 20px;
+} 
+.circle {
+	border-radius: 20px;
+}
